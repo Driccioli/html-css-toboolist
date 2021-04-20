@@ -17,14 +17,14 @@ header > span{
 main{
     background-color: lightgray;
     margin: 0;
-    padding-top: 20px;
+    padding-top: 40px;
     height: 700px;
     font-family: sans-serif;
 }
 
 .container{
     border-radius: 20px;
-    padding-top: 10px;
+    padding-top: 20px;
     padding-bottom: 50px;
     margin-inline: 60px;
     background-color: white;
