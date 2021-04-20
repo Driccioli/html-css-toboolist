@@ -30,6 +30,7 @@ main{
     background-color: white;
 }
 
+/* Stile bottoni */
 .button{
     border-radius: 8px;
     text-align: center;    
@@ -51,6 +52,8 @@ main{
     color: gray;
 }
 
+/* Stile to-do lists */
+
 h3, ul{
     margin-left: 30px;
 }
@@ -65,6 +68,7 @@ li{
     margin-bottom: 10px;
 }
 
+/* Lo stile per i checkmark */
 .circle{
     padding-inline: 2px;
     border: 1px solid;
@@ -81,6 +85,7 @@ li{
     color: red;
 }
 
+/* Stili dei tag dei task */
 .tag{
     border-radius: 12px;
     padding-inline: 10px;
